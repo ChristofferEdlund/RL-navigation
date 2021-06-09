@@ -65,4 +65,4 @@ of it had a hard time converging at the end of training. There is a possibility 
 
 ![Alt text](resources/plots/smoothed_comparison_plot.png "Title")
 
-For more extensicve discussion of the results and future work, see the report.pdf()]}.
+For more extensicve discussion of the results and future work, see the [report](report.pdf).
