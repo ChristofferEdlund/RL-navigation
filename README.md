@@ -50,7 +50,7 @@ pip install -r requirements.txt
 
 ### Project
 
-The different agents are trained notebooks.
+The different agents are trained in notebooks based on the code retrieved from the Udacity reinforcement learning nanodegree.
 
 * `navigation_dqn.ipynb` - training of agent with the original DQN algorithm
 * `navigation_double_dqn.ipynb` - training of agent with the double DQN algorithm
