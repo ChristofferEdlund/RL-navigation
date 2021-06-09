@@ -40,7 +40,7 @@ To correctly install all the dependencies that is needed please follow the udaci
 If you have problems to get things to work there is a python folder included here that contain everything that is needed
 in regards to get unity agent and such requirements as torch=0.4.0 to work. One than have the option to install it via
 ```
-pip -q install ../python
+pip -q install ./python
 ```
 
 To further install specific packages used for visualization and such install the packages in the requirements.txt file.
