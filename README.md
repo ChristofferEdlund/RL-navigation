@@ -37,6 +37,17 @@ The task is episodic, and in order to solve the environment, your agent must get
 
 To correctly install all the dependencies that is needed please follow the udacity guide [here](https://github.com/udacity/deep-reinforcement-learning#dependencies).
 
+If you have problems to get things to work there is a python folder included here that contain everything that is needed
+in regards to get unity agent and such requirements as torch=0.4.0 to work. One than have the option to install it via
+```
+pip -q install ../python
+```
+
+To further install specific packages used for visualization and such install the packages in the requirements.txt file.
+```
+pip install -r requirements.txt
+```
+
 ### Project
 
 The different agents are trained notebooks.

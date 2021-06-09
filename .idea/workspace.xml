@@ -2,7 +2,61 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b2d560b-40bb-4095-b3de-c7a77a7bd809" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/Basics.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/agent_action_proto_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/agent_info_proto_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/brain_parameters_proto_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/brain_type_proto_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/command_proto_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/engine_configuration_proto_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/environment_parameters_proto_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/header_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/resolution_proto_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/space_type_proto_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/unity_input_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/unity_message_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/unity_output_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/unity_rl_initialization_input_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/unity_rl_initialization_output_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/unity_rl_input_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/unity_rl_output_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/unity_to_external_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/communicator_objects/unity_to_external_pb2_grpc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/curricula/push.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/curricula/test.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/curricula/wall.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/learn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/tests/mock_communicator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/tests/test_bc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/tests/test_ppo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/tests/test_unityagents.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/tests/test_unitytrainers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/trainer_config.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unityagents/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unityagents/brain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unityagents/communicator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unityagents/curriculum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unityagents/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unityagents/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unityagents/rpc_communicator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unityagents/socket_communicator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unitytrainers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unitytrainers/bc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unitytrainers/bc/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unitytrainers/bc/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unitytrainers/buffer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unitytrainers/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unitytrainers/ppo/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unitytrainers/ppo/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unitytrainers/ppo/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unitytrainers/trainer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/python/unitytrainers/trainer_controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -29,6 +83,11 @@
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ChristofferE\ML\navigation" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -51,7 +110,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1623238275057</updated>
-      <workItem from="1623238282798" duration="3583000" />
+      <workItem from="1623238282798" duration="4635000" />
     </task>
     <servers />
   </component>
@@ -68,5 +127,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/navigation_dqn.ipynb</url>
+          <line>19</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

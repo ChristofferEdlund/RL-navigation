@@ -1,0 +1,12 @@
+# Add more libraries here as needed
+gym
+seaborn
+matplotlib
+numpy
+opencv-python-headless
+Pillow
+pandas
+pathlib
+sklearn
+pyglet
+jupyterlab
